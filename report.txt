@@ -1,0 +1,113 @@
+Sales Data Report
+-----------------
+
+1. All items sold to Australian customers (Stock Code and Description):
+-----------------------------------------------------------------------
+STOCK CODE      ITEM DESCRIPTION
+22941           CHRISTMAS LIGHTS 10 REINDEER
+21622           VINTAGE UNION JACK CUSHION COVER
+21791           VINTAGE HEADS AND TAILS CARD GAME 
+35004C          SET OF 3 COLOURED  FLYING DUCKS
+35004G          SET OF 3 GOLD FLYING DUCKS
+85014B          RED RETROSPOT UMBRELLA
+85014A          BLACK/BLUE POLKADOT UMBRELLA
+22193           RED DINER WALL CLOCK
+22726           ALARM CLOCK BAKELIKE GREEN
+22727           ALARM CLOCK BAKELIKE RED 
+22192           BLUE DINER WALL CLOCK
+22191           IVORY DINER WALL CLOCK
+22195           LARGE HEART MEASURING SPOONS
+22196           SMALL HEART MEASURING SPOONS
+22567           20 DOLLY PEGS RETROSPOT
+22915           ASSORTED BOTTLE TOP  MAGNETS 
+22926           IVORY GIANT GARDEN THERMOMETER
+22953           BIRTHDAY PARTY CORDON BARRIER TAPE
+21906           PHARMACIE FIRST AID TIN
+22495           SET OF 2 ROUND TINS CAMEMBERT 
+22555           PLASTERS IN TIN STRONGMAN
+22557           PLASTERS IN TIN VINTAGE PAISLEY 
+22333           RETROSPOT PARTY BAG + STICKER SET
+22094           RED RETROSPOT TISSUE BOX
+21217           RED RETROSPOT ROUND CAKE TINS
+48138           DOORMAT UNION FLAG
+79067           CORONA MEXICAN TRAY
+20725           LUNCH BAG RED RETROSPOT
+85099B          JUMBO BAG RED RETROSPOT
+22728           ALARM CLOCK BAKELIKE PINK
+22196           SMALL HEART MEASURING SPOONS
+22195           LARGE HEART MEASURING SPOONS
+22219           LOVEBIRD HANGING DECORATION WHITE 
+20685           DOORMAT RED RETROSPOT
+48138           DOORMAT UNION FLAG
+
+2. Number of unique invoices:
+-----------------------------
+1,867
+
+3. Sales total for invoice number 536365:
+-----------------------------------------
+$139.12
+
+4. Total sales by country:
+--------------------------
+COUNTRY              TOTAL SALES
+Australia            $1,005.10
+Austria              $257.04
+Bahrain              $205.74
+Belgium              $1,809.91
+Channel Islands      $363.53
+Cyprus               $1,590.82
+Denmark              $1,281.50
+EIRE                 $9,029.96
+Finland              $892.80
+France               $9,575.36
+Germany              $14,562.84
+Iceland              $711.79
+Israel               ($227.44)
+Italy                $794.50
+Japan                $7,705.07
+Lithuania            $1,661.06
+Netherlands          $8,784.48
+Norway               $3,787.12
+Poland               $248.16
+Portugal             $2,380.12
+Spain                $1,843.73
+Sweden               $2,646.30
+Switzerland          $1,304.92
+United Kingdom       $717,124.69
+
+5. Customer with the highest total sales:
+-----------------------------------------
+CUSTOMER ID     TOTAL SALES
+11800           $44,827.86
+
+6. Total sales for customer # 15311:
+------------------------------------
+$2,524.00
+
+7. Units of "HAND WARMER UNION JACK" sold:
+------------------------------------------
+958
+
+8. Total value of "HAND WARMER UNION JACK" sales:
+-------------------------------------------------
+$1,946.56
+
+9. Product with the highest UnitPrice:
+--------------------------------------
+STOCK CODE     ITEM DESCRIPTION      UNIT PRICE
+AMAZONFEE            AMAZON FEE      $13,541.33
+
+10. Total sales for entire dataset:
+-----------------------------------
+$789,336.75
+
+11. Invoice with the highest sales:
+-----------------------------------
+INVOICE #    TOTAL SALES
+539750       $18,745.86
+
+12. Product with most units sold:
+---------------------------------
+PRODUCT DESCRIPTION                      TOTAL QUANTITY SOLD
+WORLD WAR 2 GLIDERS ASSTD DESIGNS        5,195
